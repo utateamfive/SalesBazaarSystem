@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/activity_add_cart.xml" value="0.2921875" />
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/activity_add_exchange.xml" value="0.2248062015503876" />
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/activity_add_loan.xml" value="0.2248062015503876" />
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/activity_add_sales.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/activity_addto_cart.xml" value="0.2921875" />
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/activity_cart.xml" value="0.25" />
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/activity_cart_rv.xml" value="0.2921875" />
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/activity_cash.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/activity_choose_payment.xml" value="0.2921875" />
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/activity_credit_card.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/activity_exchange.xml" value="0.2921875" />
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/activity_exchangerv.xml" value="0.2921875" />
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/activity_historyrv.xml" value="0.2921875" />
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/activity_itemshistory.xml" value="0.1" />
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/activity_loan.xml" value="0.24728260869565216" />
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/activity_loan_rv.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/activity_loanrv.xml" value="0.1" />
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/activity_loans.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/activity_paypal.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/activity_sales.xml" value="0.25" />
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/fragment_listing.xml" value="0.296875" />
+        <entry key="..\:/Users/raldo/AndroidStudioProjects/universitybazaarsystem/app/src/main/res/layout/salesrv.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

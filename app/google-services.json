@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "212295241692",
+    "firebase_url": "https://university-bazaar-system-e9157-default-rtdb.firebaseio.com",
+    "project_id": "university-bazaar-system-e9157",
+    "storage_bucket": "university-bazaar-system-e9157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212295241692:android:90322323d5f84ef26c4919",
+        "android_client_info": {
+          "package_name": "com.teamfive.universitybazaarsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212295241692-84886dqjnvlt3gtj0jctvgfpk5iqcd1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvRvI0Jy05WoZktyTH5S4q7ez_6LjJWGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212295241692-84886dqjnvlt3gtj0jctvgfpk5iqcd1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212295241692:android:1cd2ac9c455be7076c4919",
+        "android_client_info": {
+          "package_name": "com.universitybazzar.mylogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212295241692-84886dqjnvlt3gtj0jctvgfpk5iqcd1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvRvI0Jy05WoZktyTH5S4q7ez_6LjJWGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212295241692-84886dqjnvlt3gtj0jctvgfpk5iqcd1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
